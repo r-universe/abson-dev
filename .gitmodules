@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "sdmApp"]
+	path = sdmApp
+	url = https://github.com/abson-dev/sdmapp
+	shallow = true
+	registered = true
